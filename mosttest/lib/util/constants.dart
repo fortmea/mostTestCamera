@@ -1,0 +1,1 @@
+const baseURL = "mostqiapi.com";
